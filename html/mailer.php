@@ -31,7 +31,7 @@ $mail->SMTPAuth = true;
 //Username to use for SMTP authentication - use full email address for gmail
 $mail->Username = "mattpolicane@gmail.com";
 //Password to use for SMTP authentication
-$mail->Password = "zorbemouse";
+//$mail->Password = "test";
 //Set who the message is to be sent from
 $mail->setFrom('mattpolicane@gmail.com', 'First Last');
 //Set an alternative reply-to address
